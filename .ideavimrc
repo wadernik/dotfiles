@@ -1,0 +1,11 @@
+" No idea if it's even works
+set statusline=%f%m%r%h%w\
+set statusline+=[%{&ff}]
+set statusline+=%=
+set statusline+=[\%03.3b/\%02.2B]\ [POS=%04v]
+
+"To display the status line always
+set laststatus=2
+
+" Disable mode line
+set nomodeline

@@ -1,0 +1,106 @@
+{
+    "editor.fontSize": 16,
+    "editor.lineNumbers": "relative",
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "Gatito Theme",
+    "workbench.colorCustomizations": {
+        "editor.background": "#202020",
+        "editorLineNumber.foreground": "#eba3a3",
+        "editorLineNumber.activeForeground": "#ffffaf",
+    },
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.fontLigatures": true,
+    "editor.minimap.maxColumn": 140,
+    "editor.fontFamily": "Consolas",
+    "editor.matchBrackets": "near",
+    "breadcrumbs.enabled": true,
+    "emmet.triggerExpansionOnTab": false,
+    "editor.rulers": [
+        120
+    ],
+    "[javascript]": {},
+    "workbench.iconTheme": "vscode-great-icons",
+    "phpcs.standard": "PSR12",
+    "subtleBrackets.disableNative": false,
+    "window.menuBarVisibility": "hidden",
+    "workbench.statusBar.visible": true,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "search.exclude": {
+        "**/markup": true
+    },
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.authors.enabled": true,
+    "gitlens.codeLens.enabled": false,
+    "git.suggestSmartCommit": false,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "files.watcherExclude": {
+        "**/.vendor/**": true,
+        "**/node_modules/*/**": true
+    },
+    "psalm.psalmScriptPath": "~/.config/composer/vendor/vimeo/psalm/psalm-language-server",
+    "intelephense.environment.phpVersion": "7.3.5",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "phpcs.showSources": true,
+    "intelephense.completion.maxItems": 150,
+    "phpcs.lintOnlyOpened": false,
+    "phpcs.lintOnType": false,
+    "workbench.sideBar.location": "right",
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<C-u>", "<C-a>"],
+            "commands": [
+                "workbench.action.toggleActivityBarVisibility"
+            ]
+        },
+        {
+            "before": ["<C-h>"],
+            "commands": [
+                "workbench.action.navigateLeft"
+            ]
+        },
+        {
+            "before": ["<C-l>"],
+            "commands": [
+                "workbench.action.navigateRight"
+            ]
+        },
+        {
+            "before": ["<C-k>"],
+            "commands": [
+                "workbench.action.navigateUp"
+            ]
+        },
+        {
+            "before": ["<C-j>"],
+            "commands": [
+                "workbench.action.navigateDown"
+            ]
+        },
+        {
+            "before": ["<C-t>", "<C-t>"],
+            "commands": [
+                "workbench.action.reopenClosedEditor"
+            ]
+        },
+        {
+            "before": ["<C-w>"],
+            "commands": [
+                "workbench.action.closeActiveEditor"
+            ]
+        },
+        {
+            "before": ["<C-a>"],
+            "commands": [
+                "editor.action.selectAll"
+            ]
+        }
+    ]
+}

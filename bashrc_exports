@@ -1,0 +1,5 @@
+export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="$HOME/alacritty/target/release:$PATH"
+export PATH="$HOME/.config/composer/vendor/bin:$PATH"
+# export PATH="$HOME/.config/node-v16.2.0/bin:$PATH"
+export PATH="$HOME/.config/node-v14.17.0/bin:$PATH"
