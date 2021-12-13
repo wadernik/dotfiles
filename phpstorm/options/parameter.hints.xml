@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="angular.show.names.for.pipes" value="false" />
+    <disabledLanguages>
+      <language id="JavaScript" />
+      <language id="PHP" />
+    </disabledLanguages>
+  </component>
+</application>

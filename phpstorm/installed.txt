@@ -1,0 +1,15 @@
+IdeaVIM
+com.adrian.dima.theme.dark.orange
+com.arcticicestudio.nord.jetbrains
+com.chrisrm.idea.MaterialThemeUI
+com.dubreuia
+com.intellij.ideolog
+com.intellij.plugins.vscodekeymap
+com.kalessil.phpStorm.phpInspectionsEA
+com.mallowigi
+com.samdark.intellij-visual-studio-code-dark-plus
+com.thvardhan.gradianto
+com.vecheslav.darculaDarkerTheme
+indent-rainbow.indent-rainbow
+izhangzhihao.rainbow.brackets
+ru.adelf.idea.dotenv

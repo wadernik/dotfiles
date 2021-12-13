@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="accentColor" value="f9826c" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="userId" value="401edb2f:178cafb6e7d:-8000" />
+    <option name="version" value="6.7.2" />
+  </component>
+</application>

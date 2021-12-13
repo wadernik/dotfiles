@@ -1,0 +1,30 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="PARAMETER_INFO_DELAY" value="200" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="SMART_BACKSPACE" value="2" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Liberation Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="JavaScript" />
+        <option value="PHP" />
+        <option value="Vue" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+  </component>
+</application>
